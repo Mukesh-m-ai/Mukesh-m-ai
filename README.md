@@ -1,50 +1,69 @@
-<h1 align="center">Hi 👋, I'm Mukesh SM</h1>
-<h3 align="center">A Programming Enthusiast | Exploring Tech One Line at a Time</h3>
+<h1 align="center" style="font-weight:bold;">Mukesh SM</h1>
+<h3 align="center">Focused Programmer | Tech Explorer</h3>
 
 ---
 
-### 🔧 My Tech Stack
+### Tech Profile
 
-<table align="center">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <th align="center">🧑‍💻 Languages</th>
-    <th align="center">🛠️ Tools & IDEs</th>
-    <th align="center">🎥 Extra Software</th>
+    <th align="center"><strong>Languages</strong></th>
+    <th align="center"><strong>Tools & IDEs</strong></th>
+    <th align="center"><strong>Extra Software</strong></th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <td align="center" style="padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/WAMPServer-%23F00.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+    <td align="center" style="padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" />
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="WAMP Server (Windows)" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+    <td align="center" style="padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="50" />
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=github-dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshsm&theme=transparent&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
 
-> 🧠 I'm always learning and building. Programming is my main interest, and I enjoy sharpening my skills every day.
+### Who I Am
+
+I'm an aspiring developer with a deep focus on programming.  
+I enjoy solving real-world problems with code.  
+Exploring tech is more than a passion — it's my way forward.
+
+---
+

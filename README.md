@@ -15,13 +15,44 @@
 <div align="center">
 
 ### **Programming Languages**
-```
-Java          ████████████████████████████████████████  Expert
-Python        ██████████████████████████████████████    Proficient  
-C             ████████████████████████████████          Advanced
-PHP           ██████████████████████████████████        Proficient
-HTML/CSS      ████████████████████████████████████████  Expert
-```
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
+<br>PHP
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" />
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
+<br>JavaScript
+</td>
+</tr>
+</table>
 
 ### **Development Environment**
 <table>
@@ -45,14 +76,23 @@ HTML/CSS      ██████████████████████
 </tr>
 </table>
 
-### **Technical Skills**
-- **Backend Development**: Java, Python, C, PHP
-- **Frontend Development**: HTML5, CSS3, Bootstrap
-- **Database**: SQL, Database Design
-- **Web Technologies**: Full-Stack Development, WAMP Stack
-- **Creative Software**: Adobe Photoshop, Premiere Pro, Blender 3D
-- **Version Control**: Git, GitHub
-- **Operating Systems**: Windows Development Environment
+### **Creative Software**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" />
+<br>Photoshop
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="48" height="48" />
+<br>Premiere Pro
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" />
+<br>Blender
+</td>
+</tr>
+</table>
 
 </div>
 

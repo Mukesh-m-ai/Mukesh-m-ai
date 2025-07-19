@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programmer;Java+Lover+%E2%98%95;Building+Cool+Things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programmer;Java+Lover;Building+Cool+Things)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=mukeshsm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   
@@ -17,7 +17,7 @@
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-<br>Java ☕❤️
+<br>Java
 </td>
 </tr>
 </table>
@@ -62,9 +62,9 @@
 </tr>
 </table>
 
-**Focus Area**: Java Full-Stack Development ☕ | Building Cool Stuff with Code ⚡
+**Focus Area**: Java Full-Stack Development | Building Cool Stuff with Code
 
-**Fun Fact**: I think Java is the most beautiful programming language ever created! ✨
+**Fun Fact**: I think Java is the most beautiful programming language ever created!
 
 </div>
 
@@ -87,7 +87,7 @@
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-<br>Java ❤️
+<br>Java
 </td>
 </tr>
 </table>
@@ -106,10 +106,6 @@
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" />
 <br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
-<br>PHP 📚
 </td>
 </tr>
 </table>
@@ -176,11 +172,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&hide=stars)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsm&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
   
 </div>
 
@@ -264,7 +258,7 @@ I'm a software developer who works with **Python**, **C**, and **Java**. Right n
   
   ---
   
-  **"Java is not just a language, it's poetry in code form ☕✨"**
+  **"Java is not just a language, it's poetry in code form"**
   
   <img src="https://github-profile-trophy.vercel.app/?username=mukeshsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
   

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programmer;Tech+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programmer;Java+Lover+%E2%98%95;Building+Cool+Things)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=mukeshsm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   
@@ -16,8 +16,8 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
-<br>PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+<br>Java ☕❤️
 </td>
 </tr>
 </table>
@@ -25,6 +25,10 @@
 ### **Next Learning Goals**
 <table>
 <tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
+<br>PHP
+</td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
 <br>Tailwind CSS
@@ -37,12 +41,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
 <br>Next.js
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" />
 <br>Node.js
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" />
 <br>Express.js
@@ -55,14 +59,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
 <br>Spring Boot
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-<br>Full-Stack Java
-</td>
 </tr>
 </table>
 
-**Focus Area**: Full-Stack Java Development & Modern Web Technologies
+**Focus Area**: Java Full-Stack Development ☕ | Building Cool Stuff with Code ⚡
+
+**Fun Fact**: I think Java is the most beautiful programming language ever created! ✨
 
 </div>
 
@@ -223,10 +225,10 @@ class Developer {
         this.name = "Mukesh SM";
         this.role = "Software Developer";
         this.languages = ["Python", "C", "Java"];
-        this.currentlyLearning = "PHP";
-        this.passion = "Java Full-Stack Development ❤️";
-        this.nextGoals = ["Tailwind", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"];
-        this.currentFocus = "Modern web technologies & Java ecosystem";
+        this.currentlyLearning = "Java (going deeper!)";
+        this.loveLanguage = "Java ☕❤️ (it's just perfect!)";
+        this.nextGoals = ["PHP", "Tailwind", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"];
+        this.currentFocus = "Building cool stuff with Java";
         this.approach = "Clean code, optimal performance";
     }
     
@@ -246,14 +248,13 @@ class Developer {
 
 ## **Professional Summary**
 
-**Software Developer** specializing in **Python**, **C**, and **Java** programming. Currently expanding skills in **PHP** and passionate about **Full-Stack Java Development**. Focused on building robust applications and exploring modern web technologies.
+I'm a software developer who works with **Python**, **C**, and **Java**. Right now I'm diving deep into **Java** because honestly, I love everything about it! Planning to learn some cool web stuff and build awesome projects.
 
-**Current Journey:**
-- Core expertise in Python, C, and Java development
-- Learning PHP for web development expansion
-- Passionate about Java ecosystem and full-stack solutions
-- Exploring modern JavaScript frameworks and tools
-- Database experience with MySQL and WAMP server setup
+**What I'm up to:**
+- Working with Python, C, and Java every day
+- Really getting into Java development (it's amazing!)
+- Want to learn modern web technologies
+- I know MySQL and have used WAMP server before
 
 ---
 
@@ -263,7 +264,7 @@ class Developer {
   
   ---
   
-  **"Code is the bridge between problems and solutions"**
+  **"Java is not just a language, it's poetry in code form ☕✨"**
   
   <img src="https://github-profile-trophy.vercel.app/?username=mukeshsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
   

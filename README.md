@@ -1,130 +1,154 @@
-# <div align="center">👋 Hey there! I'm **Mukesh SM**</div>
+# <div align="center">**Mukesh SM**</div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Focused+Programmer;Tech+Explorer;Problem+Solver;Code+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programmer;Tech+Enthusiast)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=mukeshsm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mukeshsm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   
 </div>
 
 ---
 
-## 🚀 **Tech Arsenal**
+## **Technology Stack**
 
 <div align="center">
 
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,python,c,php,html,css,bootstrap&perline=7" />
-
-### **Development Environment**
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,phpstorm,windows&perline=5" />
-
-### **Creative Tools**
-<img src="https://skillicons.dev/icons?i=photoshop,premiere,blender&perline=3" />
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsm&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=github-dark-blue&hide_border=true&background=0D1117" />
-  
-</div>
-
----
-
-## 🎯 **Activity Graph**
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshsm&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-  
-</div>
-
----
-
-## 💫 **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```typescript
-const mukesh = {
-    code: ["Java", "Python", "C", "PHP", "JavaScript"],
-    askMeAbout: ["web dev", "app dev", "UI/UX", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["HTML", "CSS", "Bootstrap"],
-            css: ["Bootstrap", "Responsive Design"]
-        },
-        backEnd: {
-            java: ["Core Java", "OOP"],
-            python: ["Core Python", "Scripting"],
-            php: ["Web Development"]
-        },
-        tools: ["VS Code", "Eclipse", "PyCharm", "PhpStorm"],
-        creative: ["Photoshop", "Premiere Pro", "Blender"]
-    },
-    currentFocus: "Building innovative solutions with code",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
+### **Programming Languages**
+```
+Java          ████████████████████████████████████████  Expert
+Python        ██████████████████████████████████████    Proficient  
+C             ████████████████████████████████          Advanced
+PHP           ██████████████████████████████████        Proficient
+HTML/CSS      ████████████████████████████████████████  Expert
 ```
 
-### 🎨 **What Drives Me**
-- 💻 **Problem Solving**: Turning complex challenges into elegant code solutions
-- 🚀 **Innovation**: Always exploring cutting-edge technologies and frameworks  
-- 🎯 **Growth Mindset**: Constantly learning and adapting to new tech trends
-- 🌟 **Impact**: Building software that makes a difference in people's lives
+### **Development Environment**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" />
+<br>Eclipse
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" />
+<br>PyCharm
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" height="48" />
+<br>PhpStorm
+</td>
+</tr>
+</table>
+
+### **Technical Skills**
+- **Backend Development**: Java, Python, C, PHP
+- **Frontend Development**: HTML5, CSS3, Bootstrap
+- **Database**: SQL, Database Design
+- **Web Technologies**: Full-Stack Development, WAMP Stack
+- **Creative Software**: Adobe Photoshop, Premiere Pro, Blender 3D
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Windows Development Environment
+
+</div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## **GitHub Analytics**
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsm&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
   
 </div>
 
 ---
 
-## 🤝 **Let's Connect!**
+## **System Information**
+
+```bash
+$ neofetch mukesh_profile
+                   -`                    mukesh@github
+                  .o+`                   --------------
+                 `ooo/                   OS: Developer
+                `+oooo:                  Host: GitHub Profile
+               `+oooooo:                 Kernel: Programming Logic
+               -+oooooo+:                Uptime: Constantly Learning
+             `/:-:++oooo+:               Shell: Multi-Language
+            `/++++/+++++++:              Resolution: Problem Solving
+           `/++++++++++++++:             DE: Code Editor
+          `/+++ooooooooo+++:             WM: Productivity
+         ./ooosssso++osssso+`            Terminal: Command Line Interface
+        .oossssso-````/ossss+`           CPU: Logic Processing Unit
+       -osssssso.      :ssssso.          Memory: Continuous Learning
+      :osssssss/        osssso+-         Disk: Knowledge Base
+     /ossssssss/        +ssssooo:        
+   `/ossssso+/:-        -:/+osssso+-     Languages: Java, Python, C, PHP
+  `+sso+:-`                 `.-/+oso:    Frameworks: Bootstrap, Web Dev
+ `++:.                           `-/+/   Editors: VS Code, Eclipse, PyCharm
+ .`                                 `/   Creative: Photoshop, Premiere, Blender
+```
+
+---
+
+## **Core Focus Areas**
 
 <div align="center">
   
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  
+**`System Programming`** • **`Web Development`** • **`Problem Solving`** • **`Software Architecture`**
+
+```javascript
+class Developer {
+    constructor() {
+        this.name = "Mukesh SM";
+        this.role = "Software Developer";
+        this.languages = ["Java", "Python", "C", "PHP", "HTML", "CSS"];
+        this.currentFocus = "Building efficient, scalable solutions";
+        this.approach = "Clean code, optimal performance";
+    }
+    
+    getCurrentStatus() {
+        return {
+            learning: "Advanced Programming Concepts",
+            working: "Full-Stack Development Projects", 
+            exploring: "System Architecture & Design Patterns"
+        };
+    }
+}
+```
+
 </div>
+
+---
+
+## **Professional Summary**
+
+**Software Developer** specializing in multi-language programming with expertise in **Java**, **Python**, **C**, and **PHP**. Experienced in full-stack web development using modern tools and frameworks. Passionate about writing clean, efficient code and solving complex technical challenges.
+
+**Technical Approach:**
+- Clean architecture and design patterns implementation
+- Performance optimization and code efficiency
+- Cross-platform development expertise
+- Database design and backend system development
 
 ---
 
 <div align="center">
   
-  ### 💝 **Thanks for stopping by!**
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshsm&theme=github-compact&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true)
   
-  ![Snake animation](https://github.com/mukeshsm/mukeshsm/blob/output/github-contribution-grid-snake.svg)
+  ---
   
-  *⭐ From [Mukesh SM](https://github.com/mukeshsm) - "Code is poetry in motion"*
+  **"Code is the bridge between problems and solutions"**
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mukeshsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
   
 </div>

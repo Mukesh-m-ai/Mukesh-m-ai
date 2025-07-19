@@ -8,19 +8,73 @@
   
 </div>
 
+## **Learning Path & Interests**
+
+<div align="center">
+
+### **Currently Learning**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
+<br>PHP
+</td>
+</tr>
+</table>
+
+### **Next Learning Goals**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
+<br>React.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" />
+<br>Node.js
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+<br>Full-Stack Java
+</td>
+</tr>
+</table>
+
+**Focus Area**: Full-Stack Java Development & Modern Web Technologies
+
+</div>
+
 ---
 
 ## **Technology Stack**
 
 <div align="center">
 
-### **Programming Languages**
+### **Core Languages**
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-<br>Java
-</td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
 <br>Python
@@ -30,10 +84,14 @@
 <br>C
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
-<br>PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+<br>Java ❤️
 </td>
 </tr>
+</table>
+
+### **Web Technologies**
+<table>
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
@@ -48,8 +106,22 @@
 <br>Bootstrap
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-<br>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
+<br>PHP 📚
+</td>
+</tr>
+</table>
+
+### **Database & Server**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" />
+<br>WAMP
 </td>
 </tr>
 </table>
@@ -150,8 +222,11 @@ class Developer {
     constructor() {
         this.name = "Mukesh SM";
         this.role = "Software Developer";
-        this.languages = ["Java", "Python", "C", "PHP", "HTML", "CSS"];
-        this.currentFocus = "Building efficient, scalable solutions";
+        this.languages = ["Python", "C", "Java"];
+        this.currentlyLearning = "PHP";
+        this.passion = "Java Full-Stack Development ❤️";
+        this.nextGoals = ["Tailwind", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"];
+        this.currentFocus = "Modern web technologies & Java ecosystem";
         this.approach = "Clean code, optimal performance";
     }
     
@@ -171,13 +246,14 @@ class Developer {
 
 ## **Professional Summary**
 
-**Software Developer** specializing in multi-language programming with expertise in **Java**, **Python**, **C**, and **PHP**. Experienced in full-stack web development using modern tools and frameworks. Passionate about writing clean, efficient code and solving complex technical challenges.
+**Software Developer** specializing in **Python**, **C**, and **Java** programming. Currently expanding skills in **PHP** and passionate about **Full-Stack Java Development**. Focused on building robust applications and exploring modern web technologies.
 
-**Technical Approach:**
-- Clean architecture and design patterns implementation
-- Performance optimization and code efficiency
-- Cross-platform development expertise
-- Database design and backend system development
+**Current Journey:**
+- Core expertise in Python, C, and Java development
+- Learning PHP for web development expansion
+- Passionate about Java ecosystem and full-stack solutions
+- Exploring modern JavaScript frameworks and tools
+- Database experience with MySQL and WAMP server setup
 
 ---
 
